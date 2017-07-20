@@ -1,0 +1,14 @@
+body {
+    background:  red;
+}
+#title {
+      background: blue;
+      width: 900px;
+}
+#main {
+     background: white;
+     width: 800px;
+}
+#title p { 
+       color: white;
+}
